@@ -140,7 +140,9 @@ require_once(__DIR__ . '/vendor/autoload.php');
 
 
 // Configure API key authorization: ApiKeyAuth
-$config = OpenAPI\Client\Configuration::getDefaultConfiguration()->setApiKey('project_id', 'YOUR_API_KEY');
+$config = OpenAPI\Client\Configuration::getDefaultConfiguration()->setApiKey('project_id', 'testnet3mzQ2iitKr2doEck7XF8XgcQITOP4sqa');
+
+
 // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 // $config = OpenAPI\Client\Configuration::getDefaultConfiguration()->setApiKeyPrefix('project_id', 'Bearer');
 

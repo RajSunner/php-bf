@@ -84,7 +84,7 @@ class Configuration
      *
      * @var string
      */
-    protected $host = 'https://cardano-mainnet.blockfrost.io/api/v0';
+    protected $host = 'https://cardano-testnet.blockfrost.io/api/v0';
 
     /**
      * User agent of the HTTP request, set to "OpenAPI-Generator/{version}/PHP" by default
